@@ -275,7 +275,7 @@ footer {
 }
 
 .contact-us h2 {
-    color: #4CAF50;
+    color: #b912cf;
 }
 
 .contact-us p {
@@ -304,7 +304,7 @@ footer {
 .contact-us form button {
     margin-top: 10px;
     padding: 10px;
-    background-color: #4CAF50;
+    background-color: #f872e6;
     color: white;
     border: none;
     border-radius: 5px;
@@ -326,7 +326,6 @@ footer {
 .contact-us ul li {
     margin-bottom: 5px;
 }
-
 footer {
     background-color: white;
     color: #000;
